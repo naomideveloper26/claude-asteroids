@@ -34,7 +34,7 @@ Luego visita `http://localhost:3000`.
 | `↑`       | Propulsar  |
 | `Espacio` | Disparar   |
 
-## Puntuación
+## Puntuación!!!
 
 | Asteroide | Puntos |
 | --------- | ------ |
